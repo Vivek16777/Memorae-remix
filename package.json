@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+    "@tailwindcss/vite": "^4.1.17",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@vitejs/plugin-react": "^5.1.0",
@@ -30,5 +31,18 @@
     "prettier": "^3.6.2",
     "tailwindcss": "^4.1.17",
     "vite": "^7.2.2"
-  }
+  },
+  "description": "Memorae Remix — Frontend Hackathon Live demo: &lt;your-vercel-link> Repo: &lt;github-link> ## Tech - React + Vite - TailwindCSS - Framer Motion ## Features - Responsive hero with animated mascot - Device showcase with speech bubbles - Animated features &amp; pricing - Accessible FAQ &amp; keyboard support",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivek16777/Memorae-remix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivek16777/Memorae-remix/issues"
+  },
+  "homepage": "https://github.com/Vivek16777/Memorae-remix#readme"
 }
